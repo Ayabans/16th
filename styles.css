@@ -1,0 +1,19 @@
+#game-board {
+    border: 1px solid black;
+  }
+  
+  .pacman {
+    width: 20px;
+    height: 20px;
+    background-color: yellow;
+    border-radius: 50%;
+    position: absolute;
+  }
+  
+  .ghost {
+    width: 20px;
+    height: 20px;
+    background-color: red;
+    border-radius: 50%;
+    position: absolute;
+  }
